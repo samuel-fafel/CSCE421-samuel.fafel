@@ -1,0 +1,62 @@
+Loading Training and Testing Data... Done
+-------
+Max Samples: 10
+Using euclidean_distance: 
+	Neighbor Labels:
+	  Yi: 10  -  Yj: 10 (distance  2.419) | MATCH!
+	  Yi:  7  -  Yj:  7 (distance  4.017) | MATCH!
+	  Yi:  4  -  Yj:  4 (distance  3.877) | MATCH!
+	  Yi:  7  -  Yj:  7 (distance  5.728) | MATCH!
+	  Yi:  7  -  Yj:  7 (distance  4.090) | MATCH!
+	  Yi:  1  -  Yj:  1 (distance  2.680) | MATCH!
+	  Yi:  1  -  Yj:  1 (distance  3.159) | MATCH!
+	  Yi:  1  -  Yj:  1 (distance  3.022) | MATCH!
+	  Yi:  7  -  Yj:  7 (distance  2.670) | MATCH!
+	  Yi: 10  -  Yj: 10 (distance  2.546) | MATCH!
+	Matching Labels: 100.0%
+Using manhattan_distance: 
+	Neighbor Labels:
+	  Yi: 10  -  Yj: 10 (distance 23.764) | MATCH!
+	  Yi:  7  -  Yj:  7 (distance 40.637) | MATCH!
+	  Yi:  4  -  Yj:  4 (distance 39.985) | MATCH!
+	  Yi:  7  -  Yj:  7 (distance 59.198) | MATCH!
+	  Yi:  7  -  Yj:  7 (distance 45.289) | MATCH!
+	  Yi:  1  -  Yj:  1 (distance 29.235) | MATCH!
+	  Yi:  1  -  Yj:  1 (distance 32.932) | MATCH!
+	  Yi:  1  -  Yj:  1 (distance 26.279) | MATCH!
+	  Yi:  7  -  Yj:  7 (distance 26.213) | MATCH!
+	  Yi: 10  -  Yj: 10 (distance 22.768) | MATCH!
+	Matching Labels: 100.0%
+Using cosine_distance: 
+	Neighbor Labels:
+	  Yi: 10  -  Yj: 10 (distance  0.020) | MATCH!
+	  Yi:  7  -  Yj:  7 (distance  0.060) | MATCH!
+	  Yi:  4  -  Yj:  4 (distance  0.058) | MATCH!
+	  Yi:  7  -  Yj:  7 (distance  0.122) | MATCH!
+	  Yi:  7  -  Yj:  7 (distance  0.065) | MATCH!
+	  Yi:  1  -  Yj:  1 (distance  0.028) | MATCH!
+	  Yi:  1  -  Yj:  1 (distance  0.036) | MATCH!
+	  Yi:  1  -  Yj:  1 (distance  0.034) | MATCH!
+	  Yi:  7  -  Yj:  7 (distance  0.025) | MATCH!
+	  Yi: 10  -  Yj: 10 (distance  0.020) | MATCH!
+	Matching Labels: 100.0%
+
+Loading Training and Testing Data... Done
+-------
+Max Samples: 100
+Using euclidean_distance: 	Matching Labels: 96.0%
+Using manhattan_distance: 	Matching Labels: 97.0%
+Using cosine_distance: 	Matching Labels: 96.0%
+
+Loading Training and Testing Data... Done
+-------
+Max Samples: 1000
+Using euclidean_distance: 	Matching Labels: 94.8%
+Using manhattan_distance: 	Matching Labels: 93.7%
+Using cosine_distance: 	Matching Labels: 94.69999999999999%
+
+Loading Training and Testing Data... Done
+-------
+Max Samples: 10000
+Using euclidean_distance:       Matching Labels: 95.01743896362731%
+Using manhattan_distance:       Matching Labels: 94.12057797
